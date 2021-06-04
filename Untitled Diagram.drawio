@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-04T05:36:12.181Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="B6OrObTWPQuMtHiLuX_t" version="14.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-04T14:35:35.082Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="Et0KXTQI8sh6VJ0MXXVv" version="14.7.4" type="github">
   <diagram id="_wbJIc1c088jrpUFfp03" name="Page-1">
-    <mxGraphModel dx="1426" dy="853" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="673" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
         <mxCell id="wFGHiCNTVyRwfUwmVPfo-76" value="Pod2..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="wFGHiCNTVyRwfUwmVPfo-73" vertex="1">
           <mxGeometry y="78" width="140" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="wFGHiCNTVyRwfUwmVPfo-80" value="Docker registry" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://goharbor.io/img/logos/harbor-horizontal-color.png;" parent="1" vertex="1">
+        <mxCell id="wFGHiCNTVyRwfUwmVPfo-80" value="Docker registry" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://goharbor.io/img/logos/harbor-horizontal-color.png;spacing=3;" parent="1" vertex="1">
           <mxGeometry x="1050" y="610" width="175.68" height="50" as="geometry" />
         </mxCell>
         <mxCell id="o8y3W0bxB4i506m4vsdM-1" value="Kubernetes Cluster" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
